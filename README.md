@@ -103,12 +103,11 @@ The portfolio encompasses end-to-end analytical workflows including **data colle
 
 ## 👨‍💻 About the Author
 
-**Het Patel**  
+**Dev Patel**  
 *Bachelor of Technology - Artificial Intelligence and Machine Learning*  
-Charotar Institute of Science and Technology (CSPIT)  
+Chandubhai Institute of Science and Technology (CSPIT)  
 CHARUSAT University
 
-*Passionate about leveraging data science to solve complex real-world challenges across diverse industries*
 
 ---
 
@@ -124,7 +123,3 @@ CHARUSAT University
 ├── Project_07_Electoral_Statistics_Analysis/
 └── README.md
 ```
-
----
-
-*This portfolio demonstrates proficiency in statistical analysis, machine learning, and business intelligence across multiple domains, showcasing the versatility and practical application of data science methodologies.*
