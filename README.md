@@ -4,7 +4,7 @@ This repository presents a comprehensive collection of **seven data analytics pr
 
 The portfolio encompasses end-to-end analytical workflows including **data collection, preprocessing, exploratory analysis, statistical modeling, and results interpretation** — delivering valuable insights across **finance, digital marketing, operations management, healthcare, manufacturing quality assurance, sports analytics, and political science**.
 
-📖 **Medium Article**: [My Internship Journey: Exploring Data Analytics Across Domains](https://medium.com/@ihetpatel79/my-internship-journey-exploring-data-analytics-across-domains-627db271abe2)
+📖 **Medium Article**: [My Internship Journey: Exploring Data Analytics Across Domains](https://medium.com/@devdpatel0005/my-summer-internship-journey-with-samatrix-io-as-an-aiml-student-at-cspit-charusat-c1b40dc960d9)
 
 ---
 
