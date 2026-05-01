@@ -2,16 +2,15 @@
 
 This repository contains focused, resume-ready notebooks developed during a summer internship. The notebooks showcase practical end-to-end analyses: exploratory data analysis, statistical testing, simulation, and financial risk modeling. The featured project below is prioritized for inclusion on a professional profile or resume.
 
-**Featured Project — Google Playstore Exploratory Data Analysis**
+## **Project 1 — Google Playstore Exploratory Data Analysis**
 - **Objective**: Perform a comprehensive exploratory analysis of Google Play Store app data to uncover product, user, and market insights that support product decisions and prioritization.
 - **Dataset**: Google Play Store apps (app metadata, ratings, installs, price, category, last updated). Data cleaning and validation included.
 - **Key Analyses & Outcomes**: Identified top-performing categories, analyzed rating and install relationships, detected outliers and anomalous entries, quantified missing-data impact, and produced actionable recommendations for app monetization and feature prioritization.
 - **Methods & Tools**: pandas for data wrangling, seaborn/matplotlib for visual exploration, feature engineering, missing-value strategies, and correlation/segment analyses.
 - **Notebook**: [Project_1_Google_Playstore_EDA.ipynb](Project_1_Google_Playstore_EDA.ipynb)
 
-**Other Notebooks (Concise Summaries)**
-- **A/B Testing Analysis**: Conversion-rate experiment design, synthetic data simulation, hypothesis testing (z-proportion), confidence intervals, and sequential monitoring guidance to support reliable experiment decisions. See [Project_2_ABtesting.ipynb](Project_2_ABtesting.ipynb).
-- **Portfolio Risk Assessment (Value at Risk)**: Financial time series preprocessing, return modeling, parametric and historical VaR estimation, and backtesting to validate risk measures. See [Project_3_PRA_vaR.ipynb](Project_3_PRA_vaR.ipynb).
+## **Project 2 - A/B Testing Analysis**: Conversion-rate experiment design, synthetic data simulation, hypothesis testing (z-proportion), confidence intervals, and sequential monitoring guidance to support reliable experiment decisions. See [Project_2_ABtesting.ipynb](Project_2_ABtesting.ipynb).
+## **Project 3 - Portfolio Risk Assessment (Value at Risk)**: Financial time series preprocessing, return modeling, parametric and historical VaR estimation, and backtesting to validate risk measures. See [Project_3_PRA_vaR.ipynb](Project_3_PRA_vaR.ipynb).
 
 **Technical Stack**
 - **Environment**: Python 3.8+ with Jupyter Notebook
